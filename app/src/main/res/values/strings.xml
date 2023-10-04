@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tarea-1 Calculadora</string>
+    <string name="numero_1">Numero 1</string>
+    <string name="numero_2">Numero 2</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+
+    <string name="division">División</string>
+    <string name="regresar">Regresar</string>
+    <string name="resultado">Calculadora Android Resultado</string>
+    <string name="operacion">La operacion es:</string>
+    <string name="salir">Salir</string>
+
+
+
+
+</resources>
